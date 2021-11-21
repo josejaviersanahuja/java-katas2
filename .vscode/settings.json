@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.test.config": {
+        "name": "myTestConfiguration",
+        "vmArgs": ["-Xmx512M"],
+        "env": {
+            "key":"value"
+        }
+    }
+}
